@@ -1,0 +1,12 @@
+{
+  "name": "rc-cars-app",
+  "version": "1.0.0",
+  "description": "Very basic RC cars app for practicing AWS + Nginx deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
